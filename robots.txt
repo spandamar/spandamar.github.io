@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spandamar.github.io/sitemap
+Sitemap: https://spandamar.github.io/app/sitemap
+Sitemap: https://spandamar.github.io/assets/sitemap
+Sitemap: https://spandamar.github.io/css/sitemap
+Sitemap: https://spandamar.github.io/includes/sitemap
+Sitemap: https://spandamar.github.io/item/sitemap
+Sitemap: https://spandamar.github.io/src/sitemap
